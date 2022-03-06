@@ -2,7 +2,7 @@
 
 [WRDL](https://wrdl.herokuapp.com)
 
-#### simple wordle clone developed w/ typescript
+#### simple wordle clone with continuous play. developed w/ typescript/node
 * frontend: vue, vuetify
 * backend: express
 
