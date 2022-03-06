@@ -3,7 +3,7 @@
 [WRDL](https://wrdl.herokuapp.com)
 
 #### simple wordle clone with continuous play. developed w/ typescript/node
-* frontend: vue, vuetify
+* frontend: vue, vuex, vue-router, vuetify
 * backend: express
 
 ##### author: [revzim](https://github.com/revzim)
